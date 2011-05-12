@@ -1,0 +1,17 @@
+This directory is maintained using Git version control system
+To know about using Git please read the Git Manual in the main directory.
+
+
+-----design
+	|-----README	      - Readme file
+	|-----GitManual.pdf   - Git manual
+	|-----pub
+		|-----css     - Directory for CSS files
+		|-----flash   -	Directory for flash files
+		|-----html    -	Directory for html files
+		|-----images  - Directory for images and icons
+		|-----misc    - Directory for unlisted files
+		|-----src     - Directory for source files
+
+Tips using Git:
+Please do not make commits in the master branch. Create a separate branch for updates. You can have as many branches as you wish until you remember what lies in each branch.
